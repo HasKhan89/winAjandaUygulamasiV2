@@ -1,0 +1,12 @@
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\bin\Debug\winAjandaUygulamasiV2.exe.config
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.BulusmaFormu.resources
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.Form1.resources
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.GorevFormu.resources
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.ToplatiFormu.resources
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\bin\Debug\winAjandaUygulamasiV2.exe
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\bin\Debug\winAjandaUygulamasiV2.pdb
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.exe
+C:\Users\HasKhan\Desktop\winAjandaUygulamasiV2\winAjandaUygulamasiV2\obj\Debug\winAjandaUygulamasiV2.pdb
